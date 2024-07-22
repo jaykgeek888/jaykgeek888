@@ -3,21 +3,60 @@
 Building the web, one line of code at a time.
 
 ## About Me
-A senior software developer focusing on both WordPress & Shopify Plus development. An expert in building and optimizing high-performance websites and e-commerce solutions. Skilled in JavaScript, PHP, HTML, CSS, and Liquid, with a focus on theme/plugin/app development, API integrations, and responsive design. Dedicated to enhancing user experience and driving business growth through innovative digital solutions.
+A seasoned web application developer specializing in WordPress and Shopify Plus development, I bring extensive expertise in creating and optimizing high-performance websites and e-commerce solutions for enterprise companies. With a deep focus on theme, plugin, and app development, as well as API integrations, I am committed to enhancing user experience and driving business growth through innovative digital strategies. My dedication to excellence ensures that each project not only meets but exceeds client expectations, delivering exceptional results in the digital landscape.
 
 ## Certified Codeable WordPress Developer
-<a href="https://www.credential.net/9a22c858-9cb4-4be5-9ce8-d2488a4245a5" target="blank"><img src="/assets/codeable-badge.png" alt="Codeable Badge" width="200" height="200"/> </a>
-
+[![codeable](/assets/codeable-badge.png)](https://www.credential.net/9a22c858-9cb4-4be5-9ce8-d2488a4245a5)
+ 
 ## Connect with me:  
 [![portfolio](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jsdigital.tech/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaysonsupsup)
    
 
-## Web Platform Specialization 
-<p><a href="https://profiles.wordpress.org/jayk_geek888/">WordPress</a></p>
-<p><a href="#">Shopify Plus</a></p> 
+## CMS & E-commerce
+ 
+<details> 
+<summary>WordPress</summary>
+<ul>
+<li>Full Site Editing (FSE)</li>
+<li>Gutenberg</li>
+<li>Underscoretw</li>
+<li>Underscores</li>
+<li>Understrap</li>
+<li>Roots Sage</li>
+<li>them.es</li>
+<li>Genesis Framework</li>
+<li>Advanced Custom Fields</li>
+<li>Custom Post Type UI</li>
+<li>WPML</li>
+<li>Woocommerce</li>
+<li>Gravity Forms</li>
+<li>Contact Form 7</li>
+<li>Yoast SEO</li>
+<li>Visual Composer</li>
+<li>WP Bakery</li>
+<li>Beaver Builder</li>
+<li>Elementor</li>
+<li>Divi</li>
+<li>Live Composer</li>
+<li>Themify Builder </li>
+</ul>
 
-## Tech Stack | Frameworks | Tools: 
+</details> 
+  
+<details>
+<summary>Shopify Plus</summary>
+<ul>
+<li>Liquid</li>
+<li>Headless (Hydrogen & Oxygen)</li>
+<li>Checkout Extensibility</li>
+<li>Shopify APIs (Storefront, Ajax, GraphQL Admin, REST Admin)</li>
+<li>Shopify CLI </li>
+<li>B2B</li>
+</ul>
+</details> 
+
+## Tech Stack | Frameworks | Tools 
 [![php](/assets/images/php.svg)](#)
 [![javascript](/assets/images/javascript.svg)](#)
 [![css](/assets/images/css.svg)](#) 
@@ -55,6 +94,8 @@ A senior software developer focusing on both WordPress & Shopify Plus developmen
 
   
 ## Profile Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaykgeek888&theme=onedark&column=5&margin-h=10&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)   
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaykgeek888&theme=onedark&column=5&margin-h=10&margin-w=10)](#)   
+<br>
+[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=jaykgeek888&)](#)   
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaykgeek888&" alt="jaykgeek888" /></p>
+ 
