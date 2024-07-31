@@ -6,8 +6,12 @@ Building the web, one line of code at a time.
 A seasoned web application developer specializing in WordPress and Shopify Plus development, I bring extensive expertise in creating and optimizing high-performance websites and e-commerce solutions for enterprise companies. With a deep focus on theme, plugin, and app development, as well as API integrations, I am committed to enhancing user experience and driving business growth through innovative digital strategies. My dedication to excellence ensures that each project not only meets but exceeds client expectations, delivering exceptional results in the digital landscape.
 
 ## Certified Codeable WordPress Developer
-[![codeable](/assets/codeable-badge.png)](https://www.credential.net/9a22c858-9cb4-4be5-9ce8-d2488a4245a5)
- 
+<!-- [![codeable](/assets/codeable-badge.png)](https://www.credential.net/9a22c858-9cb4-4be5-9ce8-d2488a4245a5) -->
+ <a href="https://www.credential.net/9a22c858-9cb4-4be5-9ce8-d2488a4245a5">
+  <img src="/assets/codeable-badge.png" alt="codeable" width="180px">
+</a>
+
+
 ## Connect with me:  
 [![portfolio](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jsdigital.tech/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaysonsupsup)
